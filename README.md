@@ -10,7 +10,7 @@ To import this content to your stack, perform the following steps:
 
 2. By default, CLI uses the North America region. To use the Europe region, run this command in your terminal:
 
-	```csdx config:set:region EU```
+	```csdx config:set:region EU``` 
 
 3. Next, log in to your Contentstack account via CLI:
 
